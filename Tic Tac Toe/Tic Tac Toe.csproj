@@ -1,0 +1,84 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.WindowsDesktop">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <RootNamespace>Tic_Tac_Toe</RootNamespace>
+    <UseWPF>true</UseWPF>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="Elements\Grid.png" />
+    <None Remove="Elements\Icon.ico" />
+    <None Remove="Elements\O0.png" />
+    <None Remove="Elements\O1.png" />
+    <None Remove="Elements\O10.png" />
+    <None Remove="Elements\O11.png" />
+    <None Remove="Elements\O12.png" />
+    <None Remove="Elements\O13.png" />
+    <None Remove="Elements\O14.png" />
+    <None Remove="Elements\O15.png" />
+    <None Remove="Elements\O2.png" />
+    <None Remove="Elements\O3.png" />
+    <None Remove="Elements\O4.png" />
+    <None Remove="Elements\O5.png" />
+    <None Remove="Elements\O6.png" />
+    <None Remove="Elements\O7.png" />
+    <None Remove="Elements\O8.png" />
+    <None Remove="Elements\O9.png" />
+    <None Remove="Elements\X0.png" />
+    <None Remove="Elements\X1.png" />
+    <None Remove="Elements\X10.png" />
+    <None Remove="Elements\X11.png" />
+    <None Remove="Elements\X12.png" />
+    <None Remove="Elements\X13.png" />
+    <None Remove="Elements\X14.png" />
+    <None Remove="Elements\X15.png" />
+    <None Remove="Elements\X2.png" />
+    <None Remove="Elements\X3.png" />
+    <None Remove="Elements\X4.png" />
+    <None Remove="Elements\X5.png" />
+    <None Remove="Elements\X6.png" />
+    <None Remove="Elements\X7.png" />
+    <None Remove="Elements\X8.png" />
+    <None Remove="Elements\X9.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Resource Include="Elements\Grid.png" />
+    <Resource Include="Elements\Icon.ico" />
+    <Resource Include="Elements\O0.png" />
+    <Resource Include="Elements\O1.png" />
+    <Resource Include="Elements\O10.png" />
+    <Resource Include="Elements\O11.png" />
+    <Resource Include="Elements\O12.png" />
+    <Resource Include="Elements\O13.png" />
+    <Resource Include="Elements\O14.png" />
+    <Resource Include="Elements\O15.png" />
+    <Resource Include="Elements\O2.png" />
+    <Resource Include="Elements\O3.png" />
+    <Resource Include="Elements\O4.png" />
+    <Resource Include="Elements\O5.png" />
+    <Resource Include="Elements\O6.png" />
+    <Resource Include="Elements\O7.png" />
+    <Resource Include="Elements\O8.png" />
+    <Resource Include="Elements\O9.png" />
+    <Resource Include="Elements\X0.png" />
+    <Resource Include="Elements\X1.png" />
+    <Resource Include="Elements\X10.png" />
+    <Resource Include="Elements\X11.png" />
+    <Resource Include="Elements\X12.png" />
+    <Resource Include="Elements\X13.png" />
+    <Resource Include="Elements\X14.png" />
+    <Resource Include="Elements\X15.png" />
+    <Resource Include="Elements\X2.png" />
+    <Resource Include="Elements\X3.png" />
+    <Resource Include="Elements\X4.png" />
+    <Resource Include="Elements\X5.png" />
+    <Resource Include="Elements\X6.png" />
+    <Resource Include="Elements\X7.png" />
+    <Resource Include="Elements\X8.png" />
+    <Resource Include="Elements\X9.png" />
+  </ItemGroup>
+
+</Project>

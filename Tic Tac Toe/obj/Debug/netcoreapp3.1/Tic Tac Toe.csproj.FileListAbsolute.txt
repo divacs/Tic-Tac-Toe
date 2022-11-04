@@ -1,0 +1,21 @@
+C:\Users\rss0136\Desktop\private\app\Tic Tac Toe\Tic Tac Toe\obj\Debug\netcoreapp3.1\Tic Tac Toe.csproj.AssemblyReference.cache
+C:\Users\rss0136\Desktop\private\app\Tic Tac Toe\Tic Tac Toe\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+C:\Users\rss0136\Desktop\private\app\Tic Tac Toe\Tic Tac Toe\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\rss0136\Desktop\private\app\Tic Tac Toe\Tic Tac Toe\obj\Debug\netcoreapp3.1\Tic Tac Toe_MarkupCompile.cache
+C:\Users\rss0136\Desktop\private\app\Tic Tac Toe\Tic Tac Toe\obj\Debug\netcoreapp3.1\Tic Tac Toe_MarkupCompile.lref
+C:\Users\rss0136\Desktop\private\app\Tic Tac Toe\Tic Tac Toe\bin\Debug\netcoreapp3.1\Tic Tac Toe.exe
+C:\Users\rss0136\Desktop\private\app\Tic Tac Toe\Tic Tac Toe\bin\Debug\netcoreapp3.1\Tic Tac Toe.deps.json
+C:\Users\rss0136\Desktop\private\app\Tic Tac Toe\Tic Tac Toe\bin\Debug\netcoreapp3.1\Tic Tac Toe.runtimeconfig.json
+C:\Users\rss0136\Desktop\private\app\Tic Tac Toe\Tic Tac Toe\bin\Debug\netcoreapp3.1\Tic Tac Toe.runtimeconfig.dev.json
+C:\Users\rss0136\Desktop\private\app\Tic Tac Toe\Tic Tac Toe\bin\Debug\netcoreapp3.1\Tic Tac Toe.dll
+C:\Users\rss0136\Desktop\private\app\Tic Tac Toe\Tic Tac Toe\bin\Debug\netcoreapp3.1\Tic Tac Toe.pdb
+C:\Users\rss0136\Desktop\private\app\Tic Tac Toe\Tic Tac Toe\obj\Debug\netcoreapp3.1\App.baml
+C:\Users\rss0136\Desktop\private\app\Tic Tac Toe\Tic Tac Toe\obj\Debug\netcoreapp3.1\MainWindow.baml
+C:\Users\rss0136\Desktop\private\app\Tic Tac Toe\Tic Tac Toe\obj\Debug\netcoreapp3.1\Tic Tac Toe.g.resources
+C:\Users\rss0136\Desktop\private\app\Tic Tac Toe\Tic Tac Toe\obj\Debug\netcoreapp3.1\Tic Tac Toe.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rss0136\Desktop\private\app\Tic Tac Toe\Tic Tac Toe\obj\Debug\netcoreapp3.1\Tic Tac Toe.AssemblyInfoInputs.cache
+C:\Users\rss0136\Desktop\private\app\Tic Tac Toe\Tic Tac Toe\obj\Debug\netcoreapp3.1\Tic Tac Toe.AssemblyInfo.cs
+C:\Users\rss0136\Desktop\private\app\Tic Tac Toe\Tic Tac Toe\obj\Debug\netcoreapp3.1\Tic Tac Toe.csproj.CoreCompileInputs.cache
+C:\Users\rss0136\Desktop\private\app\Tic Tac Toe\Tic Tac Toe\obj\Debug\netcoreapp3.1\Tic Tac Toe.dll
+C:\Users\rss0136\Desktop\private\app\Tic Tac Toe\Tic Tac Toe\obj\Debug\netcoreapp3.1\Tic Tac Toe.pdb
+C:\Users\rss0136\Desktop\private\app\Tic Tac Toe\Tic Tac Toe\obj\Debug\netcoreapp3.1\Tic Tac Toe.genruntimeconfig.cache
